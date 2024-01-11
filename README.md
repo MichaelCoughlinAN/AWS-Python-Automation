@@ -13,14 +13,6 @@ Certainly! Here's a basic README template for your "AWS-Python-Automation" repos
 
 This repository contains a collection of AWS automation scripts written in Python. These scripts are designed to simplify and automate various tasks and operations within your Amazon Web Services (AWS) environment. Whether you're provisioning resources, configuring services, or managing AWS resources programmatically, these Python scripts can help streamline your workflow.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Getting Started
 
 To get started with these AWS automation scripts, follow the steps below:
