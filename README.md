@@ -39,10 +39,11 @@ Before using the scripts, ensure that you have the following prerequisites:
    python script_name.py
    ```
 
-5. Follow any script-specific instructions provided in the script's comments or README files.
+5. Follow any script-specific instructions provided in the script's comments.
 
 ## Contributing
 
 Contributions to this repository are welcome! If you have additional AWS automation scripts or improvements to existing scripts, feel free to submit a pull request.
+
 
 Happy automating with AWS and Python!
