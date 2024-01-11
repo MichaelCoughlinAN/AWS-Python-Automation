@@ -36,7 +36,7 @@ Before using the scripts, ensure that you have the following prerequisites:
 4. Run the script using Python. For example:
 
    ```bash
-   python script_name.py
+   python s3.py
    ```
 
 5. Follow any script-specific instructions provided in the script's comments.
