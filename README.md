@@ -22,7 +22,7 @@ Before using the scripts, ensure that you have the following prerequisites:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/michaelcoughlinan/AWS-Python-Automation.git
+   git clone https://github.com/MichaelCoughlinAN/AWS-Python-Automation.git
    ```
 
 2. Navigate to the repository's directory:
